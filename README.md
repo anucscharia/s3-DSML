@@ -1,10 +1,7 @@
-1.Write a  program in python to check whether an input number is prime or not. 
-
-2.Write a program in python to remove all occurrences of a specific item from a list. 
-
-3.Write a program in python to count the occurrence of a word in a line of text.
-
-4.Write a numpy program to create an array with values ranging from 1 to 15 and do the following operations.
+# 1. Write a  program in python to check whether an input number is prime or not. 
+# 2. Write a program in python to remove all occurrences of a specific item from a list. 
+# 3. Write a program in python to count the occurrence of a word in a line of text.
+# 4. Write a numpy program to create an array with values ranging from 1 to 15 and do the following operations.
 a) Find size of the array
 b) Update its 8th element
 c) Reverse the array
@@ -43,7 +40,7 @@ d) Convert it into 7 x 2 matrix
   c)count the number of rows and columns of the DataFrame
   d)select rows where Number of attempts in the examination is less than 2 and score greater than 10
   e)select rows where score are missing
-21.Write a pandas program to create a dataframe(6 records) which has the fields id,name,age,degree,cgpa #
+21.Write a pandas program to create a dataframe(6 records) which has the fields id,name,age,degree,cgpa 
   a)insert a new column ‘class’ into the dataframe and populate values
   b)Find out total no.of columns in the dataframe
   c)select top 3 rows ,last 4 rows
