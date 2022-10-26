@@ -23,8 +23,10 @@
 # 23.Programs using matplotlib /  seaborn for data visualisation  a)Write a program to draw univariate visualization plots(line plot,histogram,boxplot,barchart,piechart) with matplotlib for iris dataset  b)Write a program to draw multivariate visualization plots(scatter plots, scatter multiple,scatter matrix,bubble plot) with matplotlib for iris dataset  c)Write a program to draw univariate and multivariate visualization plots with seaborn(line plot, pairplot,jointplot,heatmap) for iris dataset
 # 24.Program to implement k-NN classification using the datasets (Breastcancer.csv,Telco-Customer-Churn.csv) and find the accuracy of the algorithm
 # 25.Program to implement Naïve Bayes Algorithm using any standard dataset available in the public domain and find the accuracy of the algorithm
-# 26.Program to implement simple linear regression  using anystandard dataset available in the public- domain and evaluate its performance.
-# 27. Program to implement multiple linear regression  using anystandard dataset available in the public domain and evaluate its performance.
+# 26.Decision Tree
+# 27.Program to implement simple linear regression  using anystandard dataset available in the public- domain and evaluate its performance.
+# 28. Program to implement multiple linear regression  using anystandard dataset available in the public domain and evaluate its performance.
+
 # 28Program to implement text classification using Support vector machine.
 # 29.Program to implement decision trees using any standard dataset available in the public domain and find the accuracy of the algorithm
 # 30.Program to implement a boolean AND gate using perceptron
