@@ -4,8 +4,8 @@
 # 4. Write a numpy program to create an array with values ranging from 1 to 15 and do the following operations. a) Find size of the array b) Update its 8th element c)Reverse the array d) Convert it into 7 x 2 matrix
 # 5.Write a numpy program to create a 5 x 4 matrix with values ranging from 12 to 32. Print its shape, type and data type
 # 6.Write a numpy program to create a 8 x 8 matrix and fill it with a checkerboard pattern[[0 1 0 1 0 1 0 1]..........[0 1 0 1 0 1 0 1][1 0 1 0 1 0 1 0]]
-# 7.
-# 8.
+# 7.Check board pattern 1
+# 8.Check board pattern 2
 # 9.Write a numpy program to test whether each element of a 1-D array is also present in a second array.
 # 10.Write a numpy program to a)Create two arrays b)Find the common elements in the created two arrays  c)Find the union of created arrays
 # 11.Write a numpy program to get unique elements of an array.
